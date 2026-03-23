@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "10 - Season (Perfect Blue)",
+  "base_artist": "SatoshiKonFan",
+  "createdAt": "2026-03-23T13:49:17.121795Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "10,000 Hours (with Justin Bieber)",
+      "artist": "Dan + Shay feat. Justin Bieber",
+      "has_synced": true,
+      "path": "select/01_10,000_Hours_(with_Justin_Bieber)_Dan_+_Shay_feat._Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "10,000 Hours",
+      "artist": "Dan + Shay",
+      "has_synced": true,
+      "path": "select/02_10,000_Hours_Dan_+_Shay.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "10,000 Hours",
+      "artist": "Dan + Shay",
+      "has_synced": true,
+      "path": "select/03_10,000_Hours_Dan_+_Shay.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "10 - Autos Sobre Mi Cama",
+      "artist": "Friccion",
+      "has_synced": false,
+      "path": "select/04_10_-_Autos_Sobre_Mi_Cama_Friccion.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "10 - Here I Stand And Face The Rain",
+      "artist": "A",
+      "has_synced": true,
+      "path": "select/05_10_-_Here_I_Stand_And_Face_The_Rain_A.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "10 - Te Ví En Un Tren",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/06_10_-_Te_Ví_En_Un_Tren_Los_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "10 - Todo Es Sexo Por Dinero",
+      "artist": "Miguel Mateos",
+      "has_synced": true,
+      "path": "select/07_10_-_Todo_Es_Sexo_Por_Dinero_Miguel_Mateos.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Got 10 Friends and a Crowbar That Says You Ain't Gonna Do Jack",
+      "artist": "Underoath",
+      "has_synced": true,
+      "path": "select/08_I_Got_10_Friends_and_a_Crowbar_That_Says_You_Ain't_Gonna_Do_Jack_Underoath.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I've Got 10 Friends and a Crowbar That Says You Ain't Gonna Do Jack",
+      "artist": "Underoath",
+      "has_synced": true,
+      "path": "select/09_I've_Got_10_Friends_and_a_Crowbar_That_Says_You_Ain't_Gonna_Do_Jack_Underoath.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "10 Million Stars",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/10_10_Million_Stars_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "10 Bands",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/11_10_Bands_Drake.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "8 Out Of 10",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/12_8_Out_Of_10_Drake.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "1st & 10",
+      "artist": "Ludacris feat. Infamous 2-0 & Fate Wilson",
+      "has_synced": true,
+      "path": "select/13_1st_&_10_Ludacris_feat._Infamous_2-0_&_Fate_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "1st & 10 (Feat. Infamous 2-0 & Fate Wilson)",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/14_1st_&_10_(Feat._Infamous_2-0_&_Fate_Wilson)_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "10 d E A T h b R E a s T ⚄ ⚄",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/15_10_d_E_A_T_h_b_R_E_a_s_T_⚄_⚄_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "10 d E A T h b R E a s T ⚄ ⚄ (Extended Version)",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/16_10_d_E_A_T_h_b_R_E_a_s_T_⚄_⚄_(Extended_Version)_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "10 dEAThbREaST (Extended Version)",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/17_10_dEAThbREaST_(Extended_Version)_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Rigveda 10.90",
+      "artist": "Karpe",
+      "has_synced": true,
+      "path": "select/18_Rigveda_10.90_Karpe.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Rigveda 10.90",
+      "artist": "Karpe Diem",
+      "has_synced": true,
+      "path": "select/19_Rigveda_10.90_Karpe_Diem.lrc"
+    }
+  ]
+}
